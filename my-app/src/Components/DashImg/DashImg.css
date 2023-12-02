@@ -1,0 +1,10 @@
+.d-container{
+    padding: 0 2rem;
+}
+
+.d-container>img{
+    width: 100%;
+    border: 0.2px solid rgb(212, 201, 201);
+    border-radius: 1.5rem;
+    box-shadow: 1px 1px 5px rgb(212, 201, 201);
+}

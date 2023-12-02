@@ -1,3 +1,16 @@
 *{
   box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
 }
+body{
+  margin: 0;
+}
+
+
+.tag{
+    padding: 0.5rem 1rem;
+    background-color: rgb(153, 196, 196);
+    border-radius: 5rem;
+    font-weight: 600;
+}
+

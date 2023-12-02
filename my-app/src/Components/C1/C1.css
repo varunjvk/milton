@@ -1,0 +1,13 @@
+.c1-container{
+    margin-top: 12rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
+}
+
+
+.c1-container>:nth-child(2){
+    font-size: 4rem;
+    font-weight: 600;
+}

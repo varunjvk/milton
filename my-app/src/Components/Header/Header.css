@@ -1,0 +1,76 @@
+.h-container{
+    background-color: gray;
+    padding: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.h-logo{
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+    flex-grow: 1;
+    width: 20%;
+}
+
+.icon{
+    width: 27px;
+    height: 27px;
+    background-color:wheat;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.h-title{
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
+.h-links{
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+    align-items: center;
+    padding: 0 10rem;
+}
+
+span>a{
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1.2rem;
+    color: rgb(107, 102, 102);
+}
+
+span>a:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+.h-login{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 20%;
+    padding: 0 2rem;
+    
+}
+
+.h-login>span{
+    padding: 0.5rem 1rem;
+    background-color: antiquewhite;
+    border-radius: 0.5rem;
+    font-weight: 700;
+    transition: all 300ms ease-in;
+}
+
+.h-login>:nth-child(2){
+    background-color: black;
+    color: rgba(255, 255, 255, 0.916);
+}
+
+.h-login>span:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
