@@ -4,13 +4,13 @@
 }
 body{
   margin: 0;
+  background-color: #fef9f6;
 }
 
 
 .tag{
     padding: 0.5rem 1rem;
-    background-color: rgb(153, 196, 196);
+    background-color: #F1F2F4;
     border-radius: 5rem;
     font-weight: 600;
 }
-

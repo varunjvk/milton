@@ -1,5 +1,5 @@
 .h-container{
-    background-color: gray;
+    background-color: #fef9f6;
     padding: 1.5rem;
     display: flex;
     justify-content: space-between;
@@ -16,9 +16,10 @@
 .icon{
     width: 27px;
     height: 27px;
-    background-color:wheat;
+    background-color:#F1F2F4;
     display: flex;
     justify-content: center;
+    align-items: center;
     border-radius: 5px;
 }
 
@@ -58,7 +59,7 @@ span>a:hover{
 
 .h-login>span{
     padding: 0.5rem 1rem;
-    background-color: antiquewhite;
+    background-color: #F1F2F4;
     border-radius: 0.5rem;
     font-weight: 700;
     transition: all 300ms ease-in;

@@ -6,6 +6,7 @@
     gap: 2rem;
 }
 
+
 .hero-container>:nth-child(1){
     display: flex;
     flex-direction: column;
@@ -18,8 +19,8 @@
 .hero-container>:nth-child(1)>:nth-child(2){
     text-align: center;
     font-size: 5rem;
-    font-weight: 700;
-    line-height: 5rem;
+    font-weight: 600;
+    line-height: 6rem;
 }
 
 .hero-container>:nth-child(2){
